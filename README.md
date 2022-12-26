@@ -8,4 +8,4 @@ Note 1 : manifest files are in https://github.com/khouloudRb/kr_k8s_files.git
 
 Note 2 : kubectl get ingress ==> to get the assigned IP address
 
-Note 3 : need to update ## credentialsId according to the ID of the created Jenkins credentials
+Note 3 : need to update credentialsId according to the ID of the created Jenkins credentials
